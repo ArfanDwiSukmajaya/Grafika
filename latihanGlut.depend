@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1604542096 source:/home/arfan/Videos/coba glut/with codeBlock/latihanGlut/main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1604542096 source:/media/arfan/PERJUANGAN HIDUP/TEKNIK INFORMATIKA (UPI-YPTK)/Semester 5/Grafika_Komputer_dan_Visualisasi/Pertemuan5/GarisLineStript/main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1604542096 source:/mnt/D084CEEC84CED45E/TEKNIK INFORMATIKA (UPI-YPTK)/Semester 5/Grafika_Komputer_dan_Visualisasi/Pertemuan5/GarisLineStript/main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
